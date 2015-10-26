@@ -5,3 +5,4 @@ syntax on
 set encoding=utf-8
 execute pathogen#infect()
 set shell=/bin/bash
+Plugin 'airblade/vim-gitgutter'
